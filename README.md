@@ -1,16 +1,14 @@
-## Hi there 👋
+🤗 Hello! My name is Hanna, and I’m a computer science student at the University of Gdańsk. I’m passionate about technology and programming, and I’m excited to share my projects and collaborate with the community here on GitHub. I look forward to learning, contributing, and growing together with you all! 
 
-<!--
-**hsialitskaya/hsialitskaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Skills:
+💻 Python, Scala, JavaScript, Java, Golang, R, Scheme, C++
+🌐 HTML, CSS, SCSS, TailwindCSS, React
+🛠️ Flask, Pandas, Node.js, Express.js 
+📊 SQL, PostgreSQL
+🕹️ Docker, Kubernetes, Linux, Git
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍Projects:
+
+
+
