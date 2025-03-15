@@ -11,6 +11,6 @@
 
 📍**Projects**:
 
-🐶 **Memo Game: Animal and Color Matching**  - Memo Game is a memory game in Python where players match animals with their characteristic coloration, aiming to find all pairs in the fewest moves possible.
+[🐶 **Memo Game: Animal and Color Matching**](https://github.com/hsialitskaya/Memo_Game)  - Memo Game is a memory game in Python where players match animals with their characteristic coloration, aiming to find all pairs in the fewest moves possible.
 
 
