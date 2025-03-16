@@ -10,9 +10,10 @@
 
 📍**PROJECTS**:   
 
+[📊 **Insurance Agency Database**](https://github.com/hsialitskaya/DBSecure.git)  - The Insurance Agency Database is a comprehensive system in PostgreSQL that manages agents, policies, and sales, helping you track insurance coverage and manage client relationships efficiently.
+
 [🧩 **Memo Game: Animal and Color Matching**](https://github.com/hsialitskaya/Memo_Game)  - Memo Game is a memory game in Python where players match animals with their characteristic coloration, aiming to find all pairs in the fewest moves possible.  
 
-[📊 **Insurance Agency Database**](https://github.com/hsialitskaya/DBSecure.git)  - The Insurance Agency Database is a comprehensive system in PostgreSQL that manages agents, policies, and sales, helping you track insurance coverage and manage client relationships efficiently.
 
 
 
