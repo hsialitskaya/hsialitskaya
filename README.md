@@ -4,12 +4,14 @@
 💻 **Programming Languages:** Python, Scala, JavaScript, Java, Golang, R, Scheme, C++  
 🌐 **Web Technologies:** HTML, CSS, SCSS, TailwindCSS, React    
 🛠️ **Frameworks & Libraries:** Flask, Pandas, Node.js, Express.js, Next.js  
-📊 **Databases:** SQL, PostgreSQL, MongoDB (pymongo)
+📊 **Databases:** SQL, PostgreSQL, MongoDB (pymongo)  
 🕹️ **DevOps & Tools:** Docker, Kubernetes, Linux, Git   
 🔧 **Testing & Automation**: Gherkin, Behave, unittest, coverage, parameterized, unittest_assertions
 
 
-📍**PROJECTS**:   
+📍**PROJECTS**: 
+
+[🎓 **E-Learning Platform**](https://github.com/hsialitskaya/Learning_App.git)  - E-Learning Platform is a React-based app that allows users to log in, join or create courses, participate in discussions, and take quizzes. Upon completing courses, users receive certificates. The platform provides an interactive and engaging environment for both learners and educators.    
 
 [💰 **MoneyManager**](https://github.com/hsialitskaya/Test_Bank_App.git)  -  MoneyManager is a Python-based application designed for testing purposes, focused on managing personal and corporate accounts, and handling various types of transactions such as incoming, outgoing, and express transfers. The app is built to ensure robustness and accuracy through extensive testing, without a user interface, making it ideal for developers and testers who want to verify the core functionality of financial operations in a controlled environment.
 
