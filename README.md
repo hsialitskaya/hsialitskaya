@@ -6,10 +6,13 @@
 🛠️ **Frameworks & Libraries:** Flask, Pandas, Node.js, Express.js, Next.js  
 📊 **Databases:** SQL, PostgreSQL, MongoDB (pymongo)  
 🕹️ **DevOps & Tools:** Docker, Kubernetes, Linux, Git, MQTT, WebSocket (WS), TLS, SSH     
-🔧 **Testing & Automation**: Gherkin, Behave, parameterized
+🔧 **Testing & Automation**: Gherkin, Behave, parameterized  
+🤖 **AI & Machine Learning**: TensorFlow, PyTorch, scikit-learn, Keras  
 
 
 📍**PROJECTS**: 
+
+[🪞 **AI Emotion Recognition App**](https://github.com/hsialitskaya/MoodMirror_App.git)  – MoodMirror is a full-stack application with a React frontend and Flask backend that detects user emotions in real time using a **custom-trained TensorFlow model built and trained independently**. The app analyzes webcam video to recognize facial expressions and triggers personalized actions such as playing music or sending alerts based on detected moods. The platform leverages OpenCV for video processing.
 
 [💄 **Cosmetic Recommendation Platform**](https://github.com/hsialitskaya/Cosmetics_App.git)  - Cosmetic Recommendation Platform is a full-stack JavaScript web application that recommends cosmetics based on skin type, allows users to add favorites, and suggests websites for similar skin types. The platform uses MQTT for real-time communication, a broker for message handling, WebSocket (WS) for live updates, and TLS for secure connections.
 
