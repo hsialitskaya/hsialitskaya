@@ -8,6 +8,7 @@
 🕹️ **DevOps & Tools:** Docker, Kubernetes, Linux, Git, MQTT, WebSocket (WS), TLS, SSH     
 🔧 **Testing & Automation**: Gherkin, Behave, parameterized  
 🤖 **AI & Machine Learning**: TensorFlow, PyTorch, scikit-learn, Keras  
+📈 **Data Visualization**: Matplotlib, Seaborn, Plotly
 
 
 📍**PROJECTS**: 
