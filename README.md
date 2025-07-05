@@ -1,12 +1,12 @@
 🤗 Hello! My name is Hanna, and I’m a computer science student at the University of Gdańsk. I’m passionate about technology and programming, and I’m excited to share my projects and collaborate with the community here on GitHub. I look forward to learning, contributing, and growing together with you all! 
 
 📍 **SKILLS:**  
-💻 **Programming Languages:** Python, Scala, JavaScript, Java, Golang, R, Scheme, C++  
+💻 **Programming Languages:** Python, Scala, JavaScript, Java, Golang, R, Scheme, Prolog, C++  
 🌐 **Web Technologies:** HTML, CSS, SCSS, TailwindCSS, Bootstrap, React    
 🛠️ **Frameworks & Libraries:** Flask, Pandas, Node.js, Express.js, Next.js  
-📊 **Databases:** SQL, PostgreSQL, MongoDB (pymongo)  
+📊 **Databases:** SQL, PostgreSQL, MongoDB (pymongo), redis
 🕹️ **DevOps & Tools:** Docker, Kubernetes, Linux, Git, MQTT, WebSocket (WS), TLS, SSH     
-🔧 **Testing & Automation**: Gherkin, Behave, parameterized  
+🔧 **Testing & Automation**: unittest, Gherkin, Behave, parameterized  
 🤖 **AI & Machine Learning**: TensorFlow, PyTorch, scikit-learn, Keras  
 📈 **Data Visualization**: Matplotlib, Seaborn, Plotly
 
