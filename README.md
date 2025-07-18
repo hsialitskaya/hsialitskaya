@@ -4,7 +4,7 @@
 💻 **Programming Languages:** Python, Scala, JavaScript, Java, Golang, R, Scheme, Prolog, C++  
 🌐 **Web Technologies:** HTML, CSS, SCSS, TailwindCSS, Bootstrap, React    
 🛠️ **Frameworks & Libraries:** Flask, Pandas, Node.js, Express.js, Next.js  
-📊 **Databases:** SQL, PostgreSQL, MongoDB (pymongo), redis
+📊 **Databases:** SQL, PostgreSQL, MongoDB (pymongo), redis  
 🕹️ **DevOps & Tools:** Docker, Kubernetes, Linux, Git, MQTT, WebSocket (WS), TLS, SSH     
 🔧 **Testing & Automation**: unittest, Gherkin, Behave, parameterized  
 🤖 **AI & Machine Learning**: TensorFlow, PyTorch, scikit-learn, Keras  
