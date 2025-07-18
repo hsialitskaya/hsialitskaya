@@ -3,12 +3,13 @@
 📍 **SKILLS:**  
 💻 **Programming Languages:** Python, Scala, JavaScript, Java, Golang, R, Scheme, Prolog, C++  
 🌐 **Web Technologies:** HTML, CSS, SCSS, TailwindCSS, Bootstrap, React    
-🛠️ **Frameworks & Libraries:** Flask, Pandas, Node.js, Express.js, Next.js  
+🛠️ **Frameworks & Libraries:** Flask, Pandas, Node.js, Express.js, Next.js, Gson   
 📊 **Databases:** SQL, PostgreSQL, MongoDB (pymongo), redis  
 🕹️ **DevOps & Tools:** Docker, Kubernetes, Linux, Git, MQTT, WebSocket (WS), TLS, SSH     
-🔧 **Testing & Automation**: unittest, Gherkin, Behave, parameterized  
+🔧 **Testing & Automation**: unittest, Gherkin, Behave, parameterized, JUnit    
 🤖 **AI & Machine Learning**: TensorFlow, PyTorch, scikit-learn, Keras  
-📈 **Data Visualization**: Matplotlib, Seaborn, Plotly
+📈 **Data Visualization**: Matplotlib, Seaborn, Plotly  
+📚 **Software Design Principles**: SOLID   
 
 
 📍**PROJECTS**: 
@@ -17,7 +18,9 @@
 
 [🐷 **FarmLife**](https://github.com/hsialitskaya/FarmLife.git) - FarmLife is a full-featured C++ simulation that models a two-dimensional world inhabited by diverse organisms divided into plants and animals. The application implements a detailed ancestry tracking system for each organism, storing birth and death turns with full support for copy/move constructors and custom assignment operators to maintain consistent genealogical data. It follows SOLID principles for serialization, allowing each organism to manage its own state saving and loading. The project also introduces polymorphic inheritance for easy addition of new species. Originally console-based, FarmLife is being expanded with a Qt-powered GUI for interactive and visually rich simulation control.
 
-[🍓 **StrawBouquet**](https://github.com/hsialitskaya/StrawBouquet_App.git) – StrawBouquet is a full-stack web application with a sleek and user-friendly frontend that lets users browse and purchase handcrafted strawberry bouquets. Designed to offer a delightful gifting experience, the app features a curated selection of unique strawberry arrangements, each presented with high-quality images and detailed descriptions. Users can explore product pages, choose bouquet sizes, and save favorites for quick access. The platform focuses on combining elegance with ease of use, making sweet moments more special through the beauty of strawberry bouquets.  
+[🍓 **StrawBouquet**](https://github.com/hsialitskaya/StrawBouquet_App.git) – StrawBouquet is a full-stack web application with a sleek and user-friendly frontend that lets users browse and purchase handcrafted strawberry bouquets. Designed to offer a delightful gifting experience, the app features a curated selection of unique strawberry arrangements, each presented with high-quality images and detailed descriptions. Users can explore product pages, choose bouquet sizes, and save favorites for quick access. The platform focuses on combining elegance with ease of use, making sweet moments more special through the beauty of strawberry bouquets.    
+
+[📉 **InflatioFix**](https://github.com/hsialitskaya/InflatioFix.git) – InflatioFix is a simulation-based Java application that models interactions between buyers, sellers, and a central bank in a dynamic market. Focused on inflation and pricing behavior, the app lets users observe how economic agents adapt to changing conditions, including shifting costs and inflation rates. The simulation produces a file that captures detailed market data, which can be visualized through auto-generated plots showing trends like inflation over time and market turnover. InflatioFix offers a structured yet flexible way to explore the complex feedback loops within an evolving economy.  
 
 [💄 **Cosmetic Recommendation Platform**](https://github.com/hsialitskaya/Cosmetics_App.git)  - Cosmetic Recommendation Platform is a full-stack JavaScript web application that recommends cosmetics based on skin type, allows users to add favorites, and suggests websites for similar skin types. The platform uses MQTT for real-time communication, a broker for message handling, WebSocket (WS) for live updates, and TLS for secure connections.
 
