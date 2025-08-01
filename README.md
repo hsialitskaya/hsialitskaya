@@ -2,7 +2,7 @@
 
 📍 **SKILLS:**  
 💻 **Programming Languages:** Python, Scala, JavaScript, Java, Golang, R, Scheme, Prolog, C++  
-🌐 **Web Technologies:** HTML, CSS, SCSS, TailwindCSS, Bootstrap, React, MUI    
+🌐 **Web Technologies:** HTML, CSS, SCSS, React, TailwindCSS, Bootstrap, MUI    
 🛠️ **Frameworks & Libraries:** Flask, Django, Django Ninja, FastAPI, Pandas, Node.js, Express.js, Next.js, Gson, Pydantic, SQLAlchemy         
 📊 **Databases:** SQL, PostgreSQL, MongoDB (pymongo), redis  
 🕹️ **DevOps & Tools:** Docker, Kubernetes, Linux, Git, MQTT, WebSocket (WS), TLS, SSH     
