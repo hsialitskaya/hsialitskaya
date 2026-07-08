@@ -246,38 +246,6 @@ An interactive Pokémon exploration platform allowing users to browse, compare, 
 
 ---
 
-## 📊 Insurance Agency Database
-
-🔗 https://github.com/hsialitskaya/DBSecure
-
-**Tech Stack:** PostgreSQL • SQL • Database Design
-
-A relational database system designed for managing insurance agencies, agents, policies, and customers.
-
-### Key Features:
-- Database modeling
-- Data management
-- Policy tracking
-- Structured relational design
-
----
-
-## 🧩 Memo Game: Animal and Color Matching
-
-🔗 https://github.com/hsialitskaya/Memo_Game
-
-**Tech Stack:** Python • Pygame
-
-A memory game where players match animals with their characteristic colors.
-
-### Key Features:
-- Interactive gameplay
-- Memory-based mechanics
-- Graphical interface
-- Score tracking
-
----
-
 <div align="center">
 
 ## 📊 GitHub Analytics
