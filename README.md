@@ -27,8 +27,6 @@ I enjoy building complete software solutions — from intuitive user interfaces 
 - Cloud & DevOps Technologies
 - Software Architecture & Clean Code
 
-I believe great software combines **solid engineering principles, creativity, and real-world impact**.
-
 ---
 
 <div align="center">
