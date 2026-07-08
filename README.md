@@ -39,12 +39,8 @@ I believe great software combines **solid engineering principles, creativity, an
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/hanna-sialitskaya">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -64,11 +60,11 @@ I believe great software combines **solid engineering principles, creativity, an
 # 🏆 Professional Highlights
 
  - **1+ year commercial experience** developing software solutions  
- - **Computer Science Graduate**  
+ - **Computer Science Graduate**
+ - Conference Speaker at [**Women of IT Conference**](https://www.youtube.com/watch?v=LQ-PTaW4lb0&t=2s) powered by Nokia, contributing to initiatives promoting technology, diversity, and women in STEM.
  - Built AI-powered applications using custom-trained machine learning models  
  - Developed complete Full-Stack applications from frontend to backend  
  - Experience with scalable architectures, databases, APIs, testing and automation  
- - Speaker at **Women of IT Conference** organized by Nokia  
 
 ---
 
