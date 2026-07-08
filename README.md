@@ -1,39 +1,297 @@
-🤗 Hello! My name is Hanna, and I’m a computer science student at the University of Gdańsk. I’m passionate about technology and programming, and I’m excited to share my projects and collaborate with the community here on GitHub. I look forward to learning, contributing, and growing together with you all! 
+<div align="center">
 
-📍 **SKILLS:**  
-💻 **Programming Languages:** Python, Scala, JavaScript, Java, Golang, R, Scheme, Prolog, C++  
-🌐 **Web Technologies:** HTML, CSS, SCSS, React, TailwindCSS, Bootstrap, MUI    
-🛠️ **Frameworks & Libraries:** Flask, Django, Django Ninja, FastAPI, Pandas, Node.js, Express.js, Next.js, Gson, Pydantic, SQLAlchemy         
-📊 **Databases:** SQL, PostgreSQL, MongoDB (pymongo), redis  
-🕹️ **DevOps & Tools:** Docker, Kubernetes, Linux, Git, MQTT, WebSocket (WS), TLS, SSH     
-🔧 **Testing & Automation**: unittest, Gherkin, Behave, parameterized, JUnit    
-🤖 **AI & Machine Learning**: TensorFlow, PyTorch, scikit-learn, Keras  
-📈 **Data Visualization**: Matplotlib, Seaborn, Plotly  
-📚 **Software Design Principles**: SOLID   
+# Hi, I'm Hanna Sialitskaya
 
+### Full-Stack Software Developer | AI Enthusiast | Computer Science Graduate 🎓
 
-📍**PROJECTS**: 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&color=FF69B4&lines=Full-Stack+Software+Developer;1%2B+Year+Commercial+Experience;3%2B+Years+Building+Software;AI+%26+Machine+Learning+Enthusiast;Frontend+%7C+Backend+%7C+Cloud" />
 
-[☺️ **AI Emotion Recognition**](https://github.com/hsialitskaya/MoodMirror_App.git)  – MoodMirror is a full-stack application with a React frontend and Flask backend that detects user emotions in real time using a **custom-trained TensorFlow model built and trained independently**. The app analyzes webcam video to recognize facial expressions and triggers personalized actions such as playing music or sending alerts based on detected moods. The platform leverages OpenCV for video processing.  
+</div>
 
-[🐷 **FarmLife**](https://github.com/hsialitskaya/FarmLife.git) - FarmLife is a full-featured C++ simulation that models a two-dimensional world inhabited by diverse organisms divided into plants and animals. The application implements a detailed ancestry tracking system for each organism, storing birth and death turns with full support for copy/move constructors and custom assignment operators to maintain consistent genealogical data. It follows SOLID principles for serialization, allowing each organism to manage its own state saving and loading. The project also introduces polymorphic inheritance for easy addition of new species. Originally console-based, FarmLife is being expanded with a Qt-powered GUI for interactive and visually rich simulation control.
+---
 
-[🍓 **StrawBouquet**](https://github.com/hsialitskaya/StrawBouquet_App.git) – StrawBouquet is a full-stack web application with a sleek and user-friendly frontend that lets users browse and purchase handcrafted strawberry bouquets. Designed to offer a delightful gifting experience, the app features a curated selection of unique strawberry arrangements, each presented with high-quality images and detailed descriptions. Users can explore product pages, choose bouquet sizes, and save favorites for quick access. The platform focuses on combining elegance with ease of use, making sweet moments more special through the beauty of strawberry bouquets.    
+# 💫 About Me
 
-[📉 **InflatioFix**](https://github.com/hsialitskaya/InflatioFix.git) – InflatioFix is a simulation-based Java application that models interactions between buyers, sellers, and a central bank in a dynamic market. Focused on inflation and pricing behavior, the app lets users observe how economic agents adapt to changing conditions, including shifting costs and inflation rates. The simulation produces a file that captures detailed market data, which can be visualized through auto-generated plots showing trends like inflation over time and market turnover. InflatioFix offers a structured yet flexible way to explore the complex feedback loops within an evolving economy.  
+👩‍💻 Full-Stack Software Developer with **1+ year of commercial experience** and **3+ years of experience in software development**.
 
-[💄 **Cosmetic Recommendation Platform**](https://github.com/hsialitskaya/Cosmetics_App.git)  - Cosmetic Recommendation Platform is a full-stack JavaScript web application that recommends cosmetics based on skin type, allows users to add favorites, and suggests websites for similar skin types. The platform uses MQTT for real-time communication, a broker for message handling, WebSocket (WS) for live updates, and TLS for secure connections.
+🎓 Computer Science Graduate passionate about designing scalable applications, intelligent systems, and clean software architectures.
 
-[🎓 **E-Learning Platform**](https://github.com/hsialitskaya/Learning_App.git)  - E-Learning Platform is a full-stack web application built with React for the frontend and a backend API that allows users to log in, join or create courses, participate in discussions, and take quizzes. Upon completing courses, users receive certificates. The platform provides an interactive and engaging environment for both learners and educators.    
+I enjoy building complete software solutions — from intuitive user interfaces and backend services to databases, AI models, and deployment environments.
 
-[💰 **MoneyManager**](https://github.com/hsialitskaya/Test_Bank_App.git)  -  MoneyManager is a Python-based application designed for testing purposes, focused on managing personal and corporate accounts, and handling various types of transactions such as incoming, outgoing, and express transfers. The app is built to ensure robustness and accuracy through extensive testing, without a user interface, making it ideal for developers and testers who want to verify the core functionality of financial operations in a controlled environment.
+### My professional interests:
 
-[🐱 **Pokémons Explorer**](https://github.com/hsialitskaya/Pokemons_App.git)  - Pokémon Explorer is an interactive app built with React and Next.js, allowing users to browse through a wide variety of Pokémon, add their favorites, and compare them. With a user-friendly interface, this app offers a seamless experience for Pokémon enthusiasts to explore detailed Pokémon data and manage their collection.
+- Full-Stack Web Development
+- Artificial Intelligence & Machine Learning
+- Backend Architecture & API Design
+- Database Engineering
+- Cloud & DevOps Technologies
+- Software Architecture & Clean Code
 
-[📊 **Insurance Agency Database**](https://github.com/hsialitskaya/DBSecure.git)  - The Insurance Agency Database is a comprehensive system in PostgreSQL that manages agents, policies, and sales, helping you track insurance coverage and manage client relationships efficiently.
+I believe great software combines **solid engineering principles, creativity, and real-world impact**.
 
-[🧩 **Memo Game: Animal and Color Matching**](https://github.com/hsialitskaya/Memo_Game)  - Memo Game is a memory game in Python where players match animals with their characteristic coloration, aiming to find all pairs in the fewest moves possible.  
+---
 
+<div align="center">
 
+## 🌐 Connect With Me
 
+<a href="https://github.com/hsialitskaya">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Technology Stack
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,django,flask,fastapi,docker,mongodb,linux,git" />
+
+</div>
+
+---
+
+# 🏆 Professional Highlights
+
+ - **1+ year commercial experience** developing software solutions  
+ - **Computer Science Graduate**  
+ - Built AI-powered applications using custom-trained machine learning models  
+ - Developed complete Full-Stack applications from frontend to backend  
+ - Experience with scalable architectures, databases, APIs, testing and automation  
+ - Speaker at **Women of IT Conference** organized by Nokia  
+
+---
+
+## 📍 SKILLS
+
+💻 **Programming Languages:**  
+Python, Scala, JavaScript, TypeScript, Java, Golang, R, Scheme, Prolog, C++
+
+🌐 **Web Technologies:**  
+HTML5, CSS3, SCSS, React, Next.js, TailwindCSS, Bootstrap, Material UI
+
+🛠️ **Frameworks & Libraries:**  
+Flask, Django, Django Ninja, FastAPI, Node.js, Express.js, Pandas, SQLAlchemy, Pydantic, Gson
+
+📊 **Databases:**  
+SQL, PostgreSQL, MongoDB (pymongo), Redis
+
+🕹️ **DevOps & Tools:**  
+Docker, Kubernetes, Linux, Git, MQTT, WebSocket (WS), TLS, SSH
+
+🔧 **Testing & Automation:**  
+unittest, Gherkin, Behave, parameterized, JUnit
+
+🤖 **AI & Machine Learning:**  
+TensorFlow, PyTorch, scikit-learn, Keras
+
+📈 **Data Visualization:**  
+Matplotlib, Seaborn, Plotly
+
+📚 **Software Design Principles:**  
+SOLID Principles, Object-Oriented Programming, Design Patterns, Clean Code, Software Architecture
+
+---
+
+# 📍 PROJECTS
+
+## ☺️ AI Emotion Recognition
+
+🔗 https://github.com/hsialitskaya/MoodMirror_App
+
+**Tech Stack:** React • Flask • Python • TensorFlow • OpenCV
+
+MoodMirror is a full-stack AI-powered application that recognizes human emotions in real time using a **custom-trained TensorFlow deep learning model developed independently**.
+
+The system processes webcam video streams using OpenCV, classifies facial expressions, and triggers personalized actions based on detected emotions.
+
+### Key Features:
+- Custom-trained AI emotion recognition model
+- Real-time computer vision processing
+- React-based user interface
+- Flask backend API
+- Personalized emotion-based actions
+
+---
+
+## 🐷 FarmLife
+
+🔗 https://github.com/hsialitskaya/FarmLife
+
+**Tech Stack:** C++ • OOP • SOLID • Qt
+
+FarmLife is an advanced C++ simulation of a two-dimensional ecosystem containing animals and plants.
+
+The project implements complex object-oriented design with inheritance, polymorphism, and detailed organism lifecycle management.
+
+### Key Features:
+- Simulation of a dynamic ecosystem
+- Complete ancestry tracking system
+- Serialization and state restoration
+- Copy/move constructors and assignment operators
+- SOLID-based architecture
+- Qt GUI expansion for interactive simulation
+
+---
+
+## 🍓 StrawBouquet
+
+🔗 https://github.com/hsialitskaya/StrawBouquet_App
+
+**Tech Stack:** React • Backend API • Database
+
+StrawBouquet is a full-stack e-commerce application designed for purchasing handcrafted strawberry bouquets.
+
+The platform provides a modern shopping experience with product browsing, customization options, and personalized user interactions.
+
+### Key Features:
+- Product catalog
+- Modern responsive UI
+- Favorites system
+- Product customization
+- User-friendly shopping experience
+
+---
+
+## 📉 InflatioFix
+
+🔗 https://github.com/hsialitskaya/InflatioFix
+
+**Tech Stack:** Java • Simulation • Data Visualization
+
+InflatioFix is a Java-based economic simulation that models interactions between buyers, sellers, and a central bank.
+
+The application demonstrates how market participants react to changing prices, costs, and inflation rates.
+
+### Key Features:
+- Economic simulation engine
+- Central bank interaction model
+- Automatic data generation
+- Market trend visualization
+- Dynamic system behavior analysis
+
+---
+
+## 💄 Cosmetic Recommendation Platform
+
+🔗 https://github.com/hsialitskaya/Cosmetics_App
+
+**Tech Stack:** JavaScript • MQTT • WebSocket • TLS
+
+A full-stack recommendation platform helping users discover cosmetics based on skin type.
+
+The system uses real-time communication technologies for efficient data exchange.
+
+### Key Features:
+- Personalized recommendations
+- Favorites management
+- MQTT messaging
+- WebSocket communication
+- TLS secure communication
+
+---
+
+## 🎓 E-Learning Platform
+
+🔗 https://github.com/hsialitskaya/Learning_App
+
+**Tech Stack:** React • Backend API • Database
+
+A complete learning management platform allowing users to create courses, participate in discussions, complete quizzes, and receive certificates.
+
+### Key Features:
+- Course management
+- User authentication
+- Discussions
+- Online quizzes
+- Certificates
+
+---
+
+## 💰 MoneyManager
+
+🔗 https://github.com/hsialitskaya/Test_Bank_App
+
+**Tech Stack:** Python • Testing • Automation
+
+A Python application focused on financial operations testing.
+
+The system validates different account operations and transaction scenarios through automated testing.
+
+### Key Features:
+- Account management
+- Transaction processing
+- Automated tests
+- Reliability-focused design
+
+---
+
+## 🐱 Pokémon Explorer
+
+🔗 https://github.com/hsialitskaya/Pokemons_App
+
+**Tech Stack:** React • Next.js
+
+An interactive Pokémon exploration platform allowing users to browse, compare, and manage favorite Pokémon.
+
+### Key Features:
+- Pokémon search
+- Favorites
+- Comparison system
+- Modern React architecture
+
+---
+
+## 📊 Insurance Agency Database
+
+🔗 https://github.com/hsialitskaya/DBSecure
+
+**Tech Stack:** PostgreSQL • SQL • Database Design
+
+A relational database system designed for managing insurance agencies, agents, policies, and customers.
+
+### Key Features:
+- Database modeling
+- Data management
+- Policy tracking
+- Structured relational design
+
+---
+
+## 🧩 Memo Game: Animal and Color Matching
+
+🔗 https://github.com/hsialitskaya/Memo_Game
+
+**Tech Stack:** Python • Pygame
+
+A memory game where players match animals with their characteristic colors.
+
+### Key Features:
+- Interactive gameplay
+- Memory-based mechanics
+- Graphical interface
+- Score tracking
+
+---
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<img width="48%" src="https://github-stats-extended.vercel.app/api?username=hsialitskaya&theme=radical"/>
+
+<img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hsialitskaya&layout=compact&theme=radical"/>
+
+<img src="https://komarev.com/ghpvc/?username=hsialitskaya&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
+
+</div>
