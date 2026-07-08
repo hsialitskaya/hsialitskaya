@@ -282,10 +282,8 @@ A memory game where players match animals with their characteristic colors.
 
 ## 📊 GitHub Analytics
 
-<img width="48%" src="https://github-stats-extended.vercel.app/api?username=hsialitskaya&theme=radical"/>
-
-<img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hsialitskaya&layout=compact&theme=radical"/>
-
+<img src="https://github-stats-extended.vercel.app/api?username=hsialitskaya&theme=radical"/>
+</br>
 <img src="https://komarev.com/ghpvc/?username=hsialitskaya&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
 
 </div>
