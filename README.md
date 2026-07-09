@@ -127,6 +127,32 @@ The system follows a scalable client-server architecture with secure authenticat
 
 ---
 
+## 💬 ProgTalk — Developer Discussion Platform
+
+🔗 https://github.com/hsialitskating/ProgTalk
+
+**Tech Stack:** Vue 3 • Node.js • Express.js • MongoDB • Socket.io • Docker • Nginx
+
+ProgTalk is a full-stack real-time discussion platform designed for developers to exchange knowledge, collaborate, and discuss technical topics.
+
+The platform provides a modern community experience with hierarchical topic organization, markdown-based discussions, real-time communication, role-based access control, and advanced moderation features.
+
+Built with scalability, security, and maintainability in mind, ProgTalk combines a responsive Vue 3 frontend with a secure Node.js backend and real-time WebSocket communication.
+
+### Key Features:
+- JWT-based authentication and role-based access control
+- Hierarchical topic and discussion organization
+- Markdown-powered posts with code syntax highlighting
+- Real-time notifications and direct messaging using Socket.io
+- User management and moderation system
+- Dynamic tagging and topic categorization
+- Admin dashboard with platform analytics
+- Responsive modern user interface
+- Security features including Helmet, rate limiting, and input validation
+- Docker-based deployment with Nginx reverse proxy
+
+---
+
 ## ☺️ AI Emotion Recognition
 
 🔗 https://github.com/hsialitskaya/MoodMirror_App
