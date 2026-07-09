@@ -164,7 +164,7 @@ The system processes webcam video streams using OpenCV, classifies facial expres
 
 ## 👩🏼‍💻 Employee Management
 
-🔗 https://github.com/hsialitskaya/Employee-Management
+🔗 https://github.com/hsialitskaya/EmployeeManagement
 
 **Tech Stack:** Java 17 • Spring Boot • Spring Security • Thymeleaf • Spring Data JPA • H2 Database • Maven • JUnit 5
 
