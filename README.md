@@ -99,6 +99,34 @@ SOLID Principles, Object-Oriented Programming, Design Patterns, Clean Code, Soft
 
 # 📍 PROJECTS
 
+---
+
+## 🧾 Scan & Cook — Intelligent Recipe Recommendations from Grocery Receipts
+
+🔗 https://github.com/hsialitskaya/ScanAndCookDemo
+
+**Tech Stack:** React Native • TypeScript • Django REST Framework • Python • Docker • Keycloak • Google Cloud Vision • AWS • MariaDB
+
+Scan & Cook is a production-ready full-stack mobile application that transforms grocery receipts into personalized recipe recommendations using **Artificial Intelligence, OCR, and intelligent ingredient matching**.
+
+The application allows users to scan grocery receipts, automatically recognize purchased products, match ingredients with available recipes, and receive personalized recommendations based on ingredient availability, dietary preferences, and allergy restrictions.
+
+The system follows a scalable client-server architecture with secure authentication, cloud infrastructure, and modern software engineering practices.
+
+### Key Features:
+- AI-powered receipt scanning using Google Cloud Vision OCR
+- Intelligent ingredient extraction and normalization
+- Fuzzy matching algorithms for product recognition
+- Personalized recipe recommendation system
+- Dietary preferences and allergy filtering
+- Recipe favorites and recommendation history
+- Secure authentication with Keycloak, OAuth 2.0 and JWT
+- Cloud storage using AWS S3 and CloudFront CDN
+- Docker-based deployment architecture
+- React Native cross-platform mobile application
+
+---
+
 ## ☺️ AI Emotion Recognition
 
 🔗 https://github.com/hsialitskaya/MoodMirror_App
