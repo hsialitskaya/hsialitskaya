@@ -24,7 +24,7 @@ I enjoy building complete software solutions — from intuitive user interfaces 
 - Artificial Intelligence & Machine Learning
 - Backend Architecture & API Design
 - Database Engineering
-- Cloud & DevOps Technologies
+- DevOps Technologies
 - Software Architecture & Clean Code
 
 ---
@@ -33,12 +33,8 @@ I enjoy building complete software solutions — from intuitive user interfaces 
 
 ## 🌐 Connect With Me
 
-<a href="https://github.com/hsialitskaya">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="www.linkedin.com/in/hanna-sialitskaya">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/hanna-sialitskaya">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 </div>
@@ -81,7 +77,7 @@ Flask, Django, Django Ninja, FastAPI, Node.js, Express.js, Pandas, SQLAlchemy, P
 SQL, PostgreSQL, MongoDB (pymongo), Redis
 
 🕹️ **DevOps & Tools:**  
-Docker, Kubernetes, Linux, Git, MQTT, WebSocket (WS), TLS, SSH
+Docker, Linux, Git, MQTT, WebSocket (WS), TLS, SSH
 
 🔧 **Testing & Automation:**  
 unittest, Gherkin, Behave, parameterized, JUnit
@@ -115,11 +111,7 @@ The system follows a scalable client-server architecture with secure authenticat
 
 ### Key Features:
 - AI-powered receipt scanning using Google Cloud Vision OCR
-- Intelligent ingredient extraction and normalization
 - Fuzzy matching algorithms for product recognition
-- Personalized recipe recommendation system
-- Dietary preferences and allergy filtering
-- Recipe favorites and recommendation history
 - Secure authentication with Keycloak, OAuth 2.0 and JWT
 - Cloud storage using AWS S3 and CloudFront CDN
 - Docker-based deployment architecture
@@ -141,10 +133,8 @@ Built with scalability, security, and maintainability in mind, ProgTalk combines
 
 ### Key Features:
 - JWT-based authentication and role-based access control
-- Hierarchical topic and discussion organization
 - Markdown-powered posts with code syntax highlighting
 - Real-time notifications and direct messaging using Socket.io
-- User management and moderation system
 - Dynamic tagging and topic categorization
 - Admin dashboard with platform analytics
 - Responsive modern user interface
@@ -183,7 +173,6 @@ Employee Management is a full-stack HR management application designed to organi
 The application combines a modern web interface built with Thymeleaf, a secure Spring Boot backend, REST API endpoints, and role-based access control. It provides an efficient solution for managing company data while following clean architecture and enterprise development practices.
 
 ### Key Features:
-- Employee CRUD operations
 - Secure authentication and role-based authorization
 - REST API for external integrations
 - CSV/XML employee data import
