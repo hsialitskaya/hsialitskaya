@@ -129,7 +129,7 @@ The system follows a scalable client-server architecture with secure authenticat
 
 ## 💬 ProgTalk — Developer Discussion Platform
 
-🔗 https://github.com/hsialitskating/ProgTalk
+🔗 https://github.com/hsialitskaya/ProgTalk
 
 **Tech Stack:** Vue 3 • Node.js • Express.js • MongoDB • Socket.io • Docker • Nginx
 
