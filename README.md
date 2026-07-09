@@ -97,7 +97,7 @@ SOLID Principles, Object-Oriented Programming, Design Patterns, Clean Code, Soft
 
 ---
 
-## 🧾 Scan & Cook — Intelligent Recipe Recommendations from Grocery Receipts
+## 🧾 Scan & Cook — AI-Powered Recipe Recommendations from Grocery Receipts
 
 🔗 https://github.com/hsialitskaya/ScanAndCookDemo
 
