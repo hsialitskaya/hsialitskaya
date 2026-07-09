@@ -172,6 +172,28 @@ The system processes webcam video streams using OpenCV, classifies facial expres
 
 ---
 
+## 👩🏼‍💻 Employee Management
+
+🔗 https://github.com/hsialitskaya/Employee-Management
+
+**Tech Stack:** Java 17 • Spring Boot • Spring Security • Thymeleaf • Spring Data JPA • H2 Database • Maven • JUnit 5
+
+Employee Management is a full-stack HR management application designed to organize employee records, departments, files, and business statistics.
+
+The application combines a modern web interface built with Thymeleaf, a secure Spring Boot backend, REST API endpoints, and role-based access control. It provides an efficient solution for managing company data while following clean architecture and enterprise development practices.
+
+### Key Features:
+- Employee CRUD operations
+- Secure authentication and role-based authorization
+- REST API for external integrations
+- CSV/XML employee data import
+- Business statistics and analytics dashboard
+- Responsive Thymeleaf-based user interface
+- Database management with H2 and Spring Data JPA
+- Unit and integration testing with JUnit 5 and MockMvc
+
+---
+
 ## 🐷 FarmLife
 
 🔗 https://github.com/hsialitskaya/FarmLife
