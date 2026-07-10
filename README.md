@@ -51,7 +51,7 @@ I enjoy building complete software solutions — from intuitive user interfaces 
 
 ---
 
-# 🏆 Professional Highlights
+## 🏆 Professional Highlights
 
  - **1+ year commercial experience** developing software solutions  
  - **Computer Science Graduate**
@@ -92,222 +92,101 @@ Matplotlib, Seaborn, Plotly
 SOLID Principles, Object-Oriented Programming, Design Patterns, Clean Code, Software Architecture
 
 ---
+## 📍 PROJECTS
 
-# 📍 PROJECTS
+## 🧾 [Scan & Cook — AI Recipe Recommendation App](https://github.com/hsialitskaya/ScanAndCookDemo)
 
----
+**Tech Stack:** React Native • TypeScript • Django REST Framework • Python • Docker • Google Cloud Vision • AWS • MariaDB
 
-## 🧾 Scan & Cook — AI-Powered Recipe Recommendations from Grocery Receipts
-
-🔗 https://github.com/hsialitskaya/ScanAndCookDemo
-
-**Tech Stack:** React Native • TypeScript • Django REST Framework • Python • Docker • Keycloak • Google Cloud Vision • AWS • MariaDB
-
-Scan & Cook is a production-ready full-stack mobile application that transforms grocery receipts into personalized recipe recommendations using **Artificial Intelligence, OCR, and intelligent ingredient matching**.
-
-The application allows users to scan grocery receipts, automatically recognize purchased products, match ingredients with available recipes, and receive personalized recommendations based on ingredient availability, dietary preferences, and allergy restrictions.
-
-The system follows a scalable client-server architecture with secure authentication, cloud infrastructure, and modern software engineering practices.
-
-### Key Features:
-- AI-powered receipt scanning using Google Cloud Vision OCR
-- Fuzzy matching algorithms for product recognition
-- Secure authentication with Keycloak, OAuth 2.0 and JWT
-- Cloud storage using AWS S3 and CloudFront CDN
-- Docker-based deployment architecture
-- React Native cross-platform mobile application
+Scan & Cook is a full-stack mobile application that uses **AI-powered OCR and intelligent ingredient matching** to transform grocery receipts into personalized recipe recommendations. The application automatically recognizes purchased products, matches ingredients with recipes, and suggests meals based on availability, dietary preferences, and allergies. It combines computer vision, cloud services, secure authentication, and scalable backend architecture.
 
 ---
 
-## 💬 ProgTalk — Developer Discussion Platform
-
-🔗 https://github.com/hsialitskaya/ProgTalk
+## 💬 [ProgTalk — Developer Discussion Platform](https://github.com/hsialitskaya/ProgTalk)
 
 **Tech Stack:** Vue 3 • Node.js • Express.js • MongoDB • Socket.io • Docker • Nginx
 
-ProgTalk is a full-stack real-time discussion platform designed for developers to exchange knowledge, collaborate, and discuss technical topics.
-
-The platform provides a modern community experience with hierarchical topic organization, markdown-based discussions, real-time communication, role-based access control, and advanced moderation features.
-
-Built with scalability, security, and maintainability in mind, ProgTalk combines a responsive Vue 3 frontend with a secure Node.js backend and real-time WebSocket communication.
-
-### Key Features:
-- JWT-based authentication and role-based access control
-- Markdown-powered posts with code syntax highlighting
-- Real-time notifications and direct messaging using Socket.io
-- Dynamic tagging and topic categorization
-- Admin dashboard with platform analytics
-- Responsive modern user interface
-- Security features including Helmet, rate limiting, and input validation
-- Docker-based deployment with Nginx reverse proxy
+ProgTalk is a full-stack community platform designed for developers to share knowledge, discuss technical topics, and collaborate. The application provides real-time communication, markdown-based discussions, role-based access control, and moderation features. It focuses on scalability, security, and modern web development practices.
 
 ---
 
-## ☺️ AI Emotion Recognition
-
-🔗 https://github.com/hsialitskaya/MoodMirror_App
+## ☺️ [AI Emotion Recognition — MoodMirror](https://github.com/hsialitskaya/MoodMirror_App)
 
 **Tech Stack:** React • Flask • Python • TensorFlow • OpenCV
 
-MoodMirror is a full-stack AI-powered application that recognizes human emotions in real time using a **custom-trained TensorFlow deep learning model developed independently**.
-
-The system processes webcam video streams using OpenCV, classifies facial expressions, and triggers personalized actions based on detected emotions.
-
-### Key Features:
-- Custom-trained AI emotion recognition model
-- Real-time computer vision processing
-- React-based user interface
-- Flask backend API
-- Personalized emotion-based actions
+MoodMirror is a full-stack AI application that recognizes human emotions in real time using a **custom-trained TensorFlow deep learning model developed independently**. The system processes webcam streams with OpenCV, classifies facial expressions, and triggers personalized actions based on detected emotions.
 
 ---
 
-## 👩🏼‍💻 Employee Management
+## 🎭 [CultureMatch — Cultural Discovery Platform](https://github.com/hsialitskaya/CultureMatch)
 
-🔗 https://github.com/hsialitskaya/EmployeeManagement
+**Tech Stack:** Angular 20 • TypeScript • Spring Boot • Java 21 • PostgreSQL • Docker • NgRx • WebSocket
 
-**Tech Stack:** Java 17 • Spring Boot • Spring Security • Thymeleaf • Spring Data JPA • H2 Database • Maven • JUnit 5
-
-Employee Management is a full-stack HR management application designed to organize employee records, departments, files, and business statistics.
-
-The application combines a modern web interface built with Thymeleaf, a secure Spring Boot backend, REST API endpoints, and role-based access control. It provides an efficient solution for managing company data while following clean architecture and enterprise development practices.
-
-### Key Features:
-- Secure authentication and role-based authorization
-- REST API for external integrations
-- CSV/XML employee data import
-- Business statistics and analytics dashboard
-- Responsive Thymeleaf-based user interface
-- Database management with H2 and Spring Data JPA
-- Unit and integration testing with JUnit 5 and MockMvc
+CultureMatch is a full-stack platform connecting people through shared cultural interests. Users can discover events, find like-minded people, interact through a swipe-based matching interface, and communicate through real-time messaging. The application includes secure authentication, role-based access control, and an administration dashboard.
 
 ---
 
-## 🐷 FarmLife
+## 👩🏼‍💻 [Employee Management System](https://github.com/hsialitskaya/EmployeeManagement)
 
-🔗 https://github.com/hsialitskaya/FarmLife
+**Tech Stack:** Java 17 • Spring Boot • Spring Security • Thymeleaf • Spring Data JPA • H2 • Maven
+
+Employee Management is an enterprise-style HR management application for organizing employees, departments, and company data. The system provides secure authentication, role-based authorization, REST API integration, data management, and testing using modern Spring Boot practices.
+
+---
+
+## 🐷 [FarmLife — Ecosystem Simulation](https://github.com/hsialitskaya/FarmLife)
 
 **Tech Stack:** C++ • OOP • SOLID • Qt
 
-FarmLife is an advanced C++ simulation of a two-dimensional ecosystem containing animals and plants.
-
-The project implements complex object-oriented design with inheritance, polymorphism, and detailed organism lifecycle management.
-
-### Key Features:
-- Simulation of a dynamic ecosystem
-- Complete ancestry tracking system
-- Serialization and state restoration
-- Copy/move constructors and assignment operators
-- SOLID-based architecture
-- Qt GUI expansion for interactive simulation
+FarmLife is an advanced C++ simulation of a two-dimensional ecosystem containing plants and animals. The project demonstrates object-oriented design through inheritance, polymorphism, serialization, lifecycle management, and SOLID principles. The application is being extended with a Qt graphical interface.
 
 ---
 
-## 🍓 StrawBouquet
-
-🔗 https://github.com/hsialitskaya/StrawBouquet_App
+## 🍓 [StrawBouquet — E-Commerce Platform](https://github.com/hsialitskaya/StrawBouquet_App)
 
 **Tech Stack:** React • Backend API • Database
 
-StrawBouquet is a full-stack e-commerce application designed for purchasing handcrafted strawberry bouquets.
-
-The platform provides a modern shopping experience with product browsing, customization options, and personalized user interactions.
-
-### Key Features:
-- Product catalog
-- Modern responsive UI
-- Favorites system
-- Product customization
-- User-friendly shopping experience
+StrawBouquet is a full-stack e-commerce application for purchasing handcrafted strawberry bouquets. Users can browse products, view detailed descriptions, customize orders, and save favorite items. The project focuses on modern UI design and a smooth shopping experience.
 
 ---
 
-## 📉 InflatioFix
-
-🔗 https://github.com/hsialitskaya/InflatioFix
+## 📉 [InflatioFix — Economic Simulation](https://github.com/hsialitskaya/InflatioFix)
 
 **Tech Stack:** Java • Simulation • Data Visualization
 
-InflatioFix is a Java-based economic simulation that models interactions between buyers, sellers, and a central bank.
-
-The application demonstrates how market participants react to changing prices, costs, and inflation rates.
-
-### Key Features:
-- Economic simulation engine
-- Central bank interaction model
-- Automatic data generation
-- Market trend visualization
-- Dynamic system behavior analysis
+InflatioFix is a Java-based economic simulation modeling interactions between buyers, sellers, and a central bank. The application analyzes inflation behavior, generates market data, and visualizes economic trends through automatically created plots.
 
 ---
 
-## 💄 Cosmetic Recommendation Platform
-
-🔗 https://github.com/hsialitskaya/Cosmetics_App
+## 💄 [Cosmetic Recommendation Platform](https://github.com/hsialitskaya/Cosmetics_App)
 
 **Tech Stack:** JavaScript • MQTT • WebSocket • TLS
 
-A full-stack recommendation platform helping users discover cosmetics based on skin type.
-
-The system uses real-time communication technologies for efficient data exchange.
-
-### Key Features:
-- Personalized recommendations
-- Favorites management
-- MQTT messaging
-- WebSocket communication
-- TLS secure communication
+Cosmetic Recommendation Platform is a full-stack application that recommends cosmetics based on user skin type. The system uses MQTT messaging, WebSocket communication, and TLS encryption to provide secure real-time data exchange.
 
 ---
 
-## 🎓 E-Learning Platform
-
-🔗 https://github.com/hsialitskaya/Learning_App
+## 🎓 [E-Learning Platform](https://github.com/hsialitskaya/Learning_App)
 
 **Tech Stack:** React • Backend API • Database
 
-A complete learning management platform allowing users to create courses, participate in discussions, complete quizzes, and receive certificates.
-
-### Key Features:
-- Course management
-- User authentication
-- Discussions
-- Online quizzes
-- Certificates
+E-Learning Platform is a full-stack educational system where users can create and join courses, participate in discussions, complete quizzes, and receive certificates. The application provides an interactive learning environment for students and educators.
 
 ---
 
-## 💰 MoneyManager
-
-🔗 https://github.com/hsialitskaya/Test_Bank_App
+## 💰 [MoneyManager](https://github.com/hsialitskaya/Test_Bank_App)
 
 **Tech Stack:** Python • Testing • Automation
 
-A Python application focused on financial operations testing.
-
-The system validates different account operations and transaction scenarios through automated testing.
-
-### Key Features:
-- Account management
-- Transaction processing
-- Automated tests
-- Reliability-focused design
+MoneyManager is a Python application focused on financial operations and automated testing. The system handles different account transactions and validates business logic through comprehensive test scenarios.
 
 ---
 
-## 🐱 Pokémon Explorer
-
-🔗 https://github.com/hsialitskaya/Pokemons_App
+## 🐱 [Pokémon Explorer](https://github.com/hsialitskaya/Pokemons_App)
 
 **Tech Stack:** React • Next.js
 
-An interactive Pokémon exploration platform allowing users to browse, compare, and manage favorite Pokémon.
-
-### Key Features:
-- Pokémon search
-- Favorites
-- Comparison system
-- Modern React architecture
+Pokémon Explorer is an interactive web application that allows users to browse, compare, and manage favorite Pokémon. The project demonstrates modern React architecture and dynamic user interfaces.
 
 ---
 
