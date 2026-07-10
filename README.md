@@ -102,6 +102,14 @@ Scan & Cook is a full-stack mobile application that uses **AI-powered OCR and in
 
 ---
 
+## 🎭 [CultureMatch — Cultural Discovery Platform](https://github.com/hsialitskaya/CultureMatch)
+
+**Tech Stack:** Angular 20 • TypeScript • Spring Boot • Java 21 • PostgreSQL • Docker • NgRx • WebSocket
+
+CultureMatch is a full-stack platform connecting people through shared cultural interests. Users can discover events, find like-minded people, interact through a swipe-based matching interface, and communicate through real-time messaging. The application includes secure authentication, role-based access control, and an administration dashboard.
+
+---
+
 ## 💬 [ProgTalk — Developer Discussion Platform](https://github.com/hsialitskaya/ProgTalk)
 
 **Tech Stack:** Vue 3 • Node.js • Express.js • MongoDB • Socket.io • Docker • Nginx
@@ -115,14 +123,6 @@ ProgTalk is a full-stack community platform designed for developers to share kno
 **Tech Stack:** React • Flask • Python • TensorFlow • OpenCV
 
 MoodMirror is a full-stack AI application that recognizes human emotions in real time using a **custom-trained TensorFlow deep learning model developed independently**. The system processes webcam streams with OpenCV, classifies facial expressions, and triggers personalized actions based on detected emotions.
-
----
-
-## 🎭 [CultureMatch — Cultural Discovery Platform](https://github.com/hsialitskaya/CultureMatch)
-
-**Tech Stack:** Angular 20 • TypeScript • Spring Boot • Java 21 • PostgreSQL • Docker • NgRx • WebSocket
-
-CultureMatch is a full-stack platform connecting people through shared cultural interests. Users can discover events, find like-minded people, interact through a swipe-based matching interface, and communicate through real-time messaging. The application includes secure authentication, role-based access control, and an administration dashboard.
 
 ---
 
