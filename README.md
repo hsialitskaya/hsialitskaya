@@ -102,6 +102,14 @@ Scan & Cook is a full-stack mobile application that uses **AI-powered OCR and in
 
 ---
 
+## 🖥️ [Hardware Hub](https://github.com/hsialitskaya/hardware-hub)
+
+**Tech Stack:** Python • FastAPI • SQLAlchemy 2 • Pydantic 2 • Alembic • SQLite • React • TypeScript • Vite • Tailwind CSS • React Router • Docker • Railway • OpenRouter (Gemini Flash Lite)
+
+Hardware Hub is a full-stack web application that uses AI-powered semantic search and intelligent inventory management to simplify company hardware tracking and equipment rentals. The application enables administrators to manage devices and user accounts, while employees can browse available hardware, reserve equipment, and find devices using natural-language search.
+
+---
+
 ## 🎭 [CultureMatch — Cultural Discovery Platform](https://github.com/hsialitskaya/CultureMatch)
 
 **Tech Stack:** Angular 20 • TypeScript • Spring Boot • Java 21 • PostgreSQL • Docker • NgRx • WebSocket
