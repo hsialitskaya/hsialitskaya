@@ -102,7 +102,7 @@ Scan & Cook is a full-stack mobile application that uses **AI-powered OCR and in
 
 ---
 
-## 🖥️ [Hardware Hub](https://github.com/hsialitskaya/hardware-hub)
+## 🖥️ [Hardware Hub](https://github.com/hsialitskaya/HardwareHub)
 
 **Tech Stack:** Python • FastAPI • SQLAlchemy 2 • Pydantic 2 • Alembic • SQLite • React • TypeScript • Vite • Tailwind CSS • React Router • Docker • Railway • OpenRouter (Gemini Flash Lite)
 
